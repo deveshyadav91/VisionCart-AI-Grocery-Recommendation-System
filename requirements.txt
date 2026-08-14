@@ -1,0 +1,14 @@
+streamlit
+ultralytics
+torch
+torchvision
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+joblib
+pillow
+opencv-python-headless
+scikit-learn
+scipy
+implicit
