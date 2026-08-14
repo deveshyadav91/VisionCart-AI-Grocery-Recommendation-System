@@ -5,10 +5,10 @@ torchvision
 sentence-transformers
 faiss-cpu
 pandas
-numpy
+numpy==1.26.4
 joblib
 pillow
-opencv-python-headless
+opencv-python-headless==4.10.0.84
 scikit-learn
 scipy
 implicit
